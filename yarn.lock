@@ -10931,10 +10931,10 @@ marked@^1.2.5:
   resolved "https://registry.yarnpkg.com/marked/-/marked-1.2.6.tgz"
   integrity sha512-7vVuSEZ8g/HH3hK/BH/+7u/NJj7x9VY4EHzujLDcqAQLiOUeFJYAsfSAyoWtR17lKrx7b08qyIno4lffwrzTaA==
 
-marked@^2.0.0:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.4.tgz#71d54d41f27d91ac2ed308f73c301fe9f0657a94"
-  integrity sha512-MIL0xKRDQM3DE7dJr/wa6JV0EmK9yZ3cwuTc2bu66FNm/tmEMm9cJCgJZpt9R+K1T+pB2iBNV55wvnwSd345zg==
+marked@^4.0.10:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
+  integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
 
 marky@^1.2.0:
   version "1.2.1"
